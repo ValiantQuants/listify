@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "hash": {
+      "sha256": "some-hash-value"
+    },
+    "pipfile-spec": 6,
+    "requires": {
+      "python_version": "3.9"
+    }
+  },
+  "default": {}
+}
